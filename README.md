@@ -12,14 +12,4 @@ Observações para se atentar nos próximos estudos:
 3. ; é algo muito essencial 
 4. Dúvidas? Pesquise usando palavras chaves e pergunte para alguém te auxiliar
 5. As linguagens podem ser usadas para fazer resolver muitos desafios e é legal ver como cada uma se comporta, pois cada uma delas serve para determinada situação
-
-
-Siglas:
-asm = assembly
-c = C
-h = C++
-m = Matlab
-cs = C#
-yml = Delphi
-hs = Haskell
-pas = pascal
+6. aprender programação é um caminho com muitos obstáculos, mas é muito maravilhoso!
